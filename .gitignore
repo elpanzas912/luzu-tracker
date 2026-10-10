@@ -1,0 +1,6 @@
+# Datos generados en cada ejecución
+*.db
+*.log
+pauta.csv
+_preview.html
+__pycache__/
